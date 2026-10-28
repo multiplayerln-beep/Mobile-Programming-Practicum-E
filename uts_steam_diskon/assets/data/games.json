@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "Hogwarts Legacy",
+    "original_price": 799000,
+    "discount_percent": 70,
+    "final_price": 239700,
+    "historical_low": 200000,
+    "ends_in": "10 hours",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990080/header.jpg",
+    "genre": "Action RPG",
+    "sys_req": "16 GB RAM, GTX 1070",
+    "os": ["Windows"]
+  },
+  {
+    "id": 2,
+    "title": "Monster Hunter: World",
+    "original_price": 334999,
+    "discount_percent": 80,
+    "final_price": 66999,
+    "historical_low": 66999,
+    "ends_in": "2 days",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg",
+    "genre": "Action, Co-op",
+    "sys_req": "8 GB RAM, GTX 760",
+    "os": ["Windows"]
+  },
+  {
+    "id": 3,
+    "title": "The Elder Scrolls V: Skyrim Special Edition",
+    "original_price": 532999,
+    "discount_percent": 75,
+    "final_price": 133249,
+    "historical_low": 133249,
+    "ends_in": "5 days",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg",
+    "genre": "RPG, Moddable",
+    "sys_req": "8 GB RAM, GTX 1060 3GB",
+    "os": ["Windows", "MacOS", "Linux"]
+  },
+  {
+    "id": 4,
+    "title": "Left 4 Dead 2",
+    "original_price": 90999,
+    "discount_percent": 90,
+    "final_price": 9099,
+    "historical_low": 9099,
+    "ends_in": "12 hours",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/550/header.jpg",
+    "genre": "Zombies, Multiplayer",
+    "sys_req": "2 GB RAM, GTX 660",
+    "os": ["Windows", "MacOS", "Linux"]
+  },
+  {
+    "id": 5,
+    "title": "Red Dead Redemption 2",
+    "original_price": 640000,
+    "discount_percent": 60,
+    "final_price": 256000,
+    "historical_low": 256000,
+    "ends_in": "1 day",
+    "thumbnail": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+    "genre": "Story Rich, Open World",
+    "sys_req": "12 GB RAM, GTX 1060 6GB",
+    "os": ["Windows"]
+  }
+]
